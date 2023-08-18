@@ -1,17 +1,29 @@
 # React portfolio website.
 ### About Section
 Context API to add Dark and Light theme.
+
 Bootstrap to make our website responsive for any device.
+
 Typewriting effect.
+
 React JS Vertical timeline component to show work experience and education section.
+
 React js loads more pagination features.
+
 React js sidebar with collapse features
+
 React js post request to send email from contact form.
+
 React js conditional rendering to generate different colors for different items.
+
 React js animation for different items of our app while loading the first time and scrolling.
+
 Back-to-top scroll features in react js front end app.
+
 Theme Features -  Dark theme and light theme for our react js app.
+
 How to send email from react js EmailJS.
+
 Deployed react js app to Netlify.
 
 ### Packages Used:
